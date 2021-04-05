@@ -6,9 +6,5 @@
     {
         "url": "/about",
         "path": "/about.md"
-    },
-    {
-        "url": "*",
-        "path": "/404.md"
     }
 ]
