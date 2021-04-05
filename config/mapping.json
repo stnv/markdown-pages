@@ -8,7 +8,7 @@
         "path": "/about.md"
     },
     {
-        "url": "/:any",
+        "url": "*",
         "path": "/404.md"
     }
 ]
