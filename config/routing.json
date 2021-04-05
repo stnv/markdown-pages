@@ -1,18 +1,18 @@
 [
     {
         "url": "/",
-        "path": "/index.md"
+        "path": "index.md"
     },
     {
         "url": "/about",
-        "path": "/about.md"
+        "path": "about.md"
     },
     {
         "url": "/projects",
-        "path": "/projects.md"
+        "path": "projects.md"
     },
     {
         "url": "/:any",
-        "path": "/404.md"
+        "path": "404.md"
     }
 ]
