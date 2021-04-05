@@ -8,6 +8,10 @@
         "path": "/about.md"
     },
     {
+        "url": "/projects",
+        "path": "/projects.md"
+    },
+    {
         "url": "/:any",
         "path": "/404.md"
     }
