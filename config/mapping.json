@@ -6,5 +6,9 @@
     {
         "url": "/about",
         "path": "/about.md"
+    },
+    {
+        "url": "/:any",
+        "path": "/404.md"
     }
 ]
